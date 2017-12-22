@@ -1,0 +1,8 @@
+.idea/
+Emergency.iml
+EmergencyServices.iml
+build/
+keyHash.txt
+keystore.jks
+keystore.properties
+local.properties

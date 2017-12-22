@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Åland Islands",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Albania",
+    "main": 112,
+    "police": 129,
+    "ambulance": 127,
+    "fire": 128
+  },
+  {
+    "name": "Andorra",
+    "main": 112,
+    "police": 110,
+    "ambulance": "",
+    "fire": 118
+  },
+  {
+    "name": "Armenia",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "Austria",
+    "main": 112,
+    "police": 133,
+    "ambulance": 144,
+    "fire": 122
+  },
+  {
+    "name": "Azerbaijan",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "Belarus",
+    "main": "",
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "Belgium",
+    "main": 112,
+    "police": 101,
+    "ambulance": 100,
+    "fire": 100
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "main": 112,
+    "police": 122,
+    "ambulance": 124,
+    "fire": 123
+  },
+  {
+    "name": "Bulgaria",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Croatia",
+    "main": 112,
+    "police": 192,
+    "ambulance": 194,
+    "fire": 193
+  },
+  {
+    "name": "Cyprus",
+    "main": 112,
+    "police": 1407,
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Czech Republic",
+    "main": 112,
+    "police": 158,
+    "ambulance": 150,
+    "fire": 156
+  },
+  {
+    "name": "Denmark",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Estonia",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Faroe Islands",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Finland",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "France",
+    "main": 112,
+    "police": 17,
+    "ambulance": 15,
+    "fire": 18
+  },
+  {
+    "name": "Georgia",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Germany",
+    "main": 112,
+    "police": 110,
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Gibraltar",
+    "main": 112,
+    "police": 199,
+    "ambulance": 190,
+    "fire": 190
+  },
+  {
+    "name": "Greece",
+    "main": 112,
+    "police": 100,
+    "ambulance": 166,
+    "fire": 199
+  },
+  {
+    "name": "Greenland",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Guernsey",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Hungary",
+    "main": 112,
+    "police": 107,
+    "ambulance": 104,
+    "fire": 105
+  },
+  {
+    "name": "Iceland",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Ireland",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Isle of Man",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Italy",
+    "main": 112,
+    "police": 113,
+    "ambulance": 118,
+    "fire": 115
+  },
+  {
+    "name": "Jersey",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Kosovo",
+    "main": 112,
+    "police": 192,
+    "ambulance": 194,
+    "fire": 193
+  },
+  {
+    "name": "Latvia",
+    "main": 112,
+    "police": 110,
+    "ambulance": 113,
+    "fire": 114
+  },
+  {
+    "name": "Lithuania",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Liechtenstein",
+    "main": 112,
+    "police": 117,
+    "ambulance": 144,
+    "fire": 118
+  },
+  {
+    "name": "Luxembourg",
+    "main": 112,
+    "police": 113,
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Republic of Macedonia",
+    "main": 112,
+    "police": 192,
+    "ambulance": 194,
+    "fire": 193
+  },
+  {
+    "name": "Malta",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Moldova",
+    "main": 112,
+    "police": 902,
+    "ambulance": 903,
+    "fire": 901
+  },
+  {
+    "name": "Monaco",
+    "main": 112,
+    "police": 17,
+    "ambulance": 15,
+    "fire": 18
+  },
+  {
+    "name": "Montenegro",
+    "main": 112,
+    "police": 122,
+    "ambulance": 124,
+    "fire": 123
+  },
+  {
+    "name": "Nagorno-Karabakh",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "Netherlands",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Northern Cyprus",
+    "main": 112,
+    "police": 155,
+    "ambulance": "",
+    "fire": 199
+  },
+  {
+    "name": "Norway",
+    "main": 112,
+    "police": 112,
+    "ambulance": 113,
+    "fire": 110
+  },
+  {
+    "name": "Poland",
+    "main": 112,
+    "police": 997,
+    "ambulance": 999,
+    "fire": 998
+  },
+  {
+    "name": "Portugal",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Romania",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Russia",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "San Marino",
+    "main": 112,
+    "police": 113,
+    "ambulance": 118,
+    "fire": 115
+  },
+  {
+    "name": "Serbia",
+    "main": 112,
+    "police": 192,
+    "ambulance": 194,
+    "fire": 193
+  },
+  {
+    "name": "Slovakia",
+    "main": 112,
+    "police": 158,
+    "ambulance": 155,
+    "fire": 150
+  },
+  {
+    "name": "Slovenia",
+    "main": 112,
+    "police": 113,
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Spain",
+    "main": 112,
+    "police": 91,
+    "ambulance": 61,
+    "fire": 80
+  },
+  {
+    "name": "Sweden",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Switzerland",
+    "main": 112,
+    "police": 117,
+    "ambulance": 144,
+    "fire": 118
+  },
+  {
+    "name": "Transnistria",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "Turkey",
+    "main": 112,
+    "police": 155,
+    "ambulance": 110,
+    "fire": 156
+  },
+  {
+    "name": "Ukraine",
+    "main": 112,
+    "police": 102,
+    "ambulance": 103,
+    "fire": 101
+  },
+  {
+    "name": "United Kingdom",
+    "main": 112,
+    "police": "",
+    "ambulance": "",
+    "fire": ""
+  },
+  {
+    "name": "Vatican City",
+    "main": 112,
+    "police": 113,
+    "ambulance": 118,
+    "fire": 115
+  }
+]

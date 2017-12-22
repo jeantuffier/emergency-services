@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GENERAL -->
+    <string name="app_name">Emergency Services</string>
+    <string name="settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="refresh">Refresh</string>
+    <string name="label">Label</string>
+    <string name="number">Number</string>
+    <string name="no_connection">Internet connection unavailable</string>
+    <string name="error">An error occurred, try again later</string>
+    <string name="no_values">No values to display</string>
+    <string name="delete">Delete</string>
+    <string name="options">Options</string>
+    <string name="noCountry">You need to choose a country first</string>
+    <string name="tab_title_phone">Phone</string>
+    <string name="tab_title_identity">Identity</string>
+
+    <!-- CALL -->
+    <string name="number_main">Main : %s</string>
+    <string name="number_police">Police : %s</string>
+    <string name="number_ambulance">Ambulance : %s</string>
+    <string name="number_fire">Fire : %s</string>
+
+    <!-- IDENTITY -->
+    <string name="identity_last_name">Last name</string>
+    <string name="identity_first_name">First name</string>
+    <string name="identity_birthday">Date of birth</string>
+    <string name="identity_insurance_number">National insurance number</string>
+    <string name="identity_doctor_name">Doctor name</string>
+    <string name="identity_doctor_number">Doctor number</string>
+    <string name="identity_contact_1">Contact 1</string>
+    <string name="identity_contact_2">Contact 2</string>
+    <string name="identity_donor">Organ/tissue donor</string>
+    <string name="identity_condition">Conditions history</string>
+    <string name="identity_allergies">Allergies</string>
+    <string name="identity_medications">Medications</string>
+    <string name="title_activity_create_phone_number">Create Phone Number</string>
+
+    <!-- CREATE -->
+    <string name="error_create">Both label and number must be filled in</string>
+
+</resources>
